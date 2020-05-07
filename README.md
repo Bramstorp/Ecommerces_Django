@@ -11,7 +11,7 @@ Python Ecommerces Website made with Django
 
 -Login / Register / Logout
 
--Admin only / customer only 
+-Admin only / customer only requirment
 
 -Login requriment
 
