@@ -15,14 +15,17 @@ Python Ecommerces Website made with Django
 
 -Login requriment
 
--group based security
+-Group based security
 
+-Add Product to cart
 
--Order items in add to cart
+-Checkout (No payment atm)
+
 
 --Setup--
 
 All libaryes need it in the requirment.txt
+
 
 --Running Script--
 
