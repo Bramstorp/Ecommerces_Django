@@ -1,0 +1,17 @@
+{%  extends 'accounts/base.html' %}
+
+{% block content %}
+<title>Order Complete</title>
+
+<br>
+<div class="text-center mt-5">
+  <h1 class="display-3">Thank You!</h1>
+  <p class="lead">Thank you. Your order has been received.</p>
+  <hr>
+  <p>Having trouble? <a href="{% url 'contactpage' %}">Contact us</a></p>
+  <p class="lead">
+    <a class="btn btn-primary btn-sm" href="{% url 'homepage' %}" role="button">Continue to homepage</a>
+  </p>
+</div>
+
+{% endblock %}
