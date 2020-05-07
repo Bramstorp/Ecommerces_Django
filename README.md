@@ -11,7 +11,12 @@ Python Ecommerces Website made with Django
 
 -Login / Register / Logout
 
--Admin only / customer only
+-Admin only / customer only 
+
+-Login requriment
+
+-group based security
+
 
 -Order items in add to cart
 
