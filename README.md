@@ -21,6 +21,8 @@ Python Ecommerces Website made with Django
 
 -Checkout (No payment atm)
 
+-Contact with email sender form
+
 
 --Setup--
 
