@@ -4,10 +4,15 @@ Python Ecommerces Website made with Django
 --Basic Featuers--
 
 -Add/show Products
+
 -Products Category
+
 -User / Customer
+
 -Login / Register / Logout
+
 -Admin only / customer only
+
 -Order items in add to cart
 
 --Setup--
@@ -39,8 +44,13 @@ All libaryes need it in the requirment.txt
 
 
 --TO BE DONE--
+
 Discount code
+
 Refund
+
 Saving credit card information
+
 Handling payments with Stripe
+
 Guest User
