@@ -23,6 +23,8 @@ Python Ecommerces Website made with Django
 
 -Contact with email sender form
 
+(All model and features can be found in accounts/model.py)
+
 
 --Setup--
 
