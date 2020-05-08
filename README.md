@@ -49,7 +49,7 @@ All libaryes need it in the requirment.txt
 
     1: python manage.py makemigrations
 
-    2 python manage.py migrate
+    2: python manage.py migrate
 
     and that should fix the model problem
     
